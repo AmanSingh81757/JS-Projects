@@ -1,0 +1,32 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.play{
+    margin-left: 100px;
+}
+.btns{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.choices{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.yourchoice{
+    border: 2px solid blue;
+    height: 50px;
+    width: 40%;
+}
+.computerchoice{
+    border: 2px solid green;
+    height: 50px;
+    width: 40%;
+}
